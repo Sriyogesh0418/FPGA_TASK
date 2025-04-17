@@ -176,7 +176,7 @@ This section briefly explains the main modules in the design. See the **src/** f
 
 ## **6. Short Video Demonstration**
 
-[![Demo Video](path/to/thumbnail.png)](https://github.com/user-attachments/assets/51817db1-c7d6-4cea-a7fe-6f03eacc206a)
+[![Demo Video](https://github.com/Sriyogesh0418/FPGA_TASK/issues/5#issue-3002933451)
 
 
 
