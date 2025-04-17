@@ -108,7 +108,7 @@ sudo make terminal
 
 ## Demo Video
 
-[![Watch the Demo](https://github.com/user-attachments/assets/2e41d50e-7fb5-4c2e-9296-9f6e4c054e18)](https://github.com/user-attachments/assets/2e41d50e-7fb5-4c2e-9296-9f6e4c054e18)
+[![Watch the Demo](https://github.com/user-attachments/assets/8010f69a-2f90-4bcb-9c6b-2c549da53f27)
 
 </details>
 
