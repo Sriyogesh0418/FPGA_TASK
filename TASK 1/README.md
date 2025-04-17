@@ -85,7 +85,7 @@ Blue LED remains ON (controlled by SB_RGBA_DRV).
 
 ## 4.Demo video 
 
-[![Watch the Demo](task1.jpg)
+(task1.jpg)
 
 ## License
 This project is open-source under the MIT License.
