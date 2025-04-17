@@ -84,7 +84,7 @@ make flash
 Blue LED remains ON (controlled by SB_RGBA_DRV).
 
 ## 4.Demo photo
-![TASK 1](task1.jpg)
+![TASK 1](https://github.com/Sriyogesh0418/FPGA_TASK/issues/2#issue-3002925273)
 
 ## License
 This project is open-source under the MIT License.
