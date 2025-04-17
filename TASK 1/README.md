@@ -84,9 +84,7 @@ make flash
 Blue LED remains ON (controlled by SB_RGBA_DRV).
 
 ## 4.Demo photo
-git add your_image.jpg
-git commit -m "task1.jpg"
-git push origin your-branch-name
+![TASK 1](task1.jpg)
 
 ## License
 This project is open-source under the MIT License.
