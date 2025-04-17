@@ -83,9 +83,10 @@ make flash
 ## Expected Behavior
 Blue LED remains ON (controlled by SB_RGBA_DRV).
 
-## 4.Demo video 
-
-(task1.jpg)
+## 4.Demo photo
+git add your_image.jpg
+git commit -m "task1.jpg"
+git push origin your-branch-name
 
 ## License
 This project is open-source under the MIT License.
