@@ -85,7 +85,7 @@ Blue LED remains ON (controlled by SB_RGBA_DRV).
 
 ## 4.Demo video 
 
-[![Watch the Demo](https://github.com/user-attachments/assets/9e443ef9-fec5-4688-9051-d291137a4921)](https://github.com/user-attachments/assets/9e443ef9-fec5-4688-9051-d291137a4921)
+[![Watch the Demo]("C:\Users\Sri Yogeshwaran.S\Downloads\task5and6.mp4")
 
 ## License
 This project is open-source under the MIT License.
